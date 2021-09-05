@@ -1,7 +1,7 @@
-hello class
+hello class     # from dev2
 {
-   public static void main()
+   public static void main()     #from dev2
    {
        system.out.print(class);
 
-} 
+}   #from dev2
